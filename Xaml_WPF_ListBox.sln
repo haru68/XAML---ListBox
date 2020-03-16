@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29905.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Xaml_WPF_ListBox", "Xaml_WPF_ListBox.csproj", "{44466A46-D3ED-455C-A97B-C69ABE6435AB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{44466A46-D3ED-455C-A97B-C69ABE6435AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{44466A46-D3ED-455C-A97B-C69ABE6435AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{44466A46-D3ED-455C-A97B-C69ABE6435AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{44466A46-D3ED-455C-A97B-C69ABE6435AB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {19B07243-570C-4346-BD6A-5F39EFF57674}
+	EndGlobalSection
+EndGlobal
